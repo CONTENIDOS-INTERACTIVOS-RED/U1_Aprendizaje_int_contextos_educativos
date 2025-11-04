@@ -49,26 +49,27 @@
               p.mb-0 Desde un enfoque teórico, Sanfeliciano (2019) destaca la importancia del modelo multialmacén propuesto por Atkinson y Shiffrin en 1968. Esta teoría sostiene que la memoria está compuesta por tres sistemas diferenciados, por los que la información transita a medida que es procesada. La metáfora de Jorge Luis Borges, citada por Sanfeliciano (2019) —“ese quimérico museo de formas inconstantes, ese montón de espejos rotos”—, refuerza la idea de que lo que recordamos constituye gran parte de lo que somos.
         p(data-aos="fade-left") El modelo de Atkinson y Shiffrin ha sido particularmente influyente al estructurar la memoria en almacenes funcionales que explican cómo el cerebro organiza y conserva la información durante distintos periodos de tiempo:
     
-
-    .row.justify-content-center.align-items-stretch.mb-5
-      .col-lg-4.mb-4(data-aos="zoom-in-up")
-        .custom-image-card-2.h-100
-          img.custom-image-card__image(src="@/assets/curso/tema1/7.png" alt="")
-          .custom-image-card__text.p-4
-            h5.mb-2.text-center Registro sensorial
-            p.mb-0.text-center Recibe estímulos del entorno. Retiene la información de forma muy breve (milisegundos).
-      .col-lg-4.mb-4(data-aos="zoom-in-down")
-        .custom-image-card-2.h-100
-          img.custom-image-card__image(src="@/assets/curso/tema1/8.png" alt="")
-          .custom-image-card__text.p-4
-            h5.mb-2.text-center Memoria a corto plazo
-            p.mb-0.text-center Almacena información temporalmente (15-30 segundos). Tiene capacidad limitada.
-      .col-lg-4.mb-4(data-aos="zoom-in-down")
-        .custom-image-card-2.h-100
-          img.custom-image-card__image(src="@/assets/curso/tema1/9.png" alt="")
-          .custom-image-card__text.p-4
-            h5.mb-2.text-center Memoria a largo plazo
-            p.mb-0.text-center Retiene información de forma más permanente y con capacidad ilimitada. Se consolida con el tiempo.
+    .bg-full-width.bg-color-10.mb-5
+      .px-4.px-md-5
+        .row.justify-content-center.align-items-stretch.mb-5
+          .col-lg-4.mb-4(data-aos="zoom-in-up")
+            .custom-image-card-2.h-100
+              img.custom-image-card__image(src="@/assets/curso/tema1/7.png" alt="")
+              .custom-image-card__text.p-4
+                h5.mb-2.text-center Registro sensorial
+                p.mb-0.text-center Recibe estímulos del entorno. Retiene la información de forma muy breve (milisegundos).
+          .col-lg-4.mb-4(data-aos="zoom-in-down")
+            .custom-image-card-2.h-100
+              img.custom-image-card__image(src="@/assets/curso/tema1/8.png" alt="")
+              .custom-image-card__text.p-4
+                h5.mb-2.text-center Memoria a corto plazo
+                p.mb-0.text-center Almacena información temporalmente (15-30 segundos). Tiene capacidad limitada.
+          .col-lg-4.mb-4(data-aos="zoom-in-down")
+            .custom-image-card-2.h-100
+              img.custom-image-card__image(src="@/assets/curso/tema1/9.png" alt="")
+              .custom-image-card__text.p-4
+                h5.mb-2.text-center Memoria a largo plazo
+                p.mb-0.text-center Retiene información de forma más permanente y con capacidad ilimitada. Se consolida con el tiempo.
     
     .bg-full-width.bg-color-2.mb-5
       .px-4.px-md-5.py-4
@@ -162,7 +163,7 @@
     p.mb-5 Los psicólogos cognitivos como Atkinson, Shiffrin, Norman y Hunt propusieron que existen dos mecanismos de memoria cualitativamente distintos: algunos sujetos pueden recordar gran cantidad de información de forma inmediata pero la olvidan al poco tiempo (memoria a corto plazo); otros presentan mayor dificultad inmediata, pero conservan la información por largo tiempo (memoria a largo plazo). Por ejemplo:
 
     .row.justify-content-center.align-items-stretch.mb-4
-      .col-lg-6
+      .col-lg-6.mb-3.mb-lg-0
         .bg-color-8.p-4(data-aos="fade-left").h-100
           .row.align-items-center
             .col-lg-auto
@@ -170,7 +171,7 @@
             .col-lg
               p.mb-0 Quien recuerda varios números telefónicos recién dichos usa memoria a corto plazo.
 
-      .col-lg-6
+      .col-lg-6.mb-3.mb-lg-0
         .bg-color-8.p-4(data-aos="fade-left").h-100
           .row.align-items-center
             .col-lg-auto
