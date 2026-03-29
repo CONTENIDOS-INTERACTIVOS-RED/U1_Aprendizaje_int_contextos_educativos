@@ -617,7 +617,7 @@
 
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://www.aucal.edu/blog/servicios-sociales-comunidad/importancia-de-la-percepcion-en-el-aprendizaje-concepto-etapas-tipos-y-componentes/" target="_blank" rel="noopener noreferrer") Briceño, G. (2021, 7 junio). Importancia de la percepción en el aprendizaje: concepto, etapas, tipos y componentes - Servicios Sociales y a la Comunidad. Servicios Sociales y A la Comunidad. 
+              a(href="https://ambartlab.com/percepcion-en-el-aprendizaje/" target="_blank" rel="noopener noreferrer") Ambartlab. (s. f.). Percepción en el aprendizaje: clave para el éxito académico. 
 
             p.d-flex.my-4
               img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
